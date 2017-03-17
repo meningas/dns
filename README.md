@@ -1,2 +1,2 @@
-![imagen] (DNS.png)
+![imagen](DNS.png)
 
